@@ -1,4 +1,1 @@
-{
-  "type": "general",
-  "setup": "САП",  
-}
+{"type":"general","setup":"привет","punchline":"He felt his presents.","id":116}
